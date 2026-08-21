@@ -46,8 +46,9 @@ An interactive Data Mining and Streamlit-based application developed to analyze 
 ## Files
 - `app.py`
 - `Library_Management_Dataset.xlsx`
+- Smart_Library_Management_
 - `requirements.txt`
-- `Smart_Library_Management_10_Slide_PPT.pptx`
+- `Smart_Library_Management_Final (4).pptx`
 - `README.md`
 
 ## Project Team
